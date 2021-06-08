@@ -1,0 +1,11 @@
+frame1
+  columns = 12
+  rows = 6
+
+frame2
+  columns = 6
+  row = 1
+
+frame3
+  columns = 4
+  row = 1
