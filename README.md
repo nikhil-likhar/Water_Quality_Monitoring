@@ -1,5 +1,6 @@
-# GUI_Water_Treatment
-The offline GUI for Water Quality Treatment Project which will run on Raspberry Pi.
+# Water_Quality_Monitoring
+
+A python project with GUI that assess the quality of water.
 
 
 
